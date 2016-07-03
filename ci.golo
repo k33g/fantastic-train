@@ -1,4 +1,4 @@
-## ci.golo ...
+## ci.golo ...|||
 function do = |context| {
   println("=== Jarvis-CI === :)))))")
   let path = currentDir() + "/" + context: tmp_dir()

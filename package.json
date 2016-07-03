@@ -1,5 +1,5 @@
 {
-  "name": "scaling-octo-goggles",
+  "name": "fantastic-train",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://ghe.k33g/k33g/scaling-octo-goggles"
   },
   "author": "@k33g",
   "license": "MIT",

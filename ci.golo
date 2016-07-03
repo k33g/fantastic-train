@@ -1,6 +1,6 @@
 ## ci.golo ...|||
 function do = |context| {
-  println("=== Jarvis-CI === [master]")
+  println("=== Jarvis-CI === [master...]")
   let path = currentDir() + "/" + context: tmp_dir()
   println(path)
   # Stage: initialize
